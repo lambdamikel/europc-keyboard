@@ -19,32 +19,32 @@ keyboard in the following.
 
 Whereas it is possible to repair the traces and contact zones on the
 Mylar with conducting "leitsilber" paint, the worst part of this
-keyboard is that the Mylar sheet just gets extended into a "flex
-cabled" that then connects directly to the motherboard via a simple
-flex ribbon cable connector. The metalized end contacts of this Mylar
-flex cable that make contact with the connector are pretty much
-impossible to repair once they deteriorated. Moreover, the spacing of
-the conducting paint traces is very fine, and the flexcable part of
-the Mylar sheet cracks easily in this region.
+keyboard is that the Mylar sheet just gets extended and turns into a
+flex cable that then connects directly to the motherboard via a simple
+flex cable connector. The metalized end contacts of this Mylar flex
+cable are pretty much impossible to repair once they
+deteriorated. Moreover, the spacing of the conducting paint traces is
+very fine and narrow, making repairs with Leitsilber almost
+impossible, and the flexcable part of the Mylar sheet cracks easily in
+this region as well. A real nightmare. 
 
 ## Solution
 
 To once and for all get rid of the Mylar sheet in the Euro PC
-keyboards, I created a flexible (0.4 mm thick) PCB as a substitute.
-Just open up your EuroPC keyboard, remote and trash the Mylar sheet,
-and put in this flexible PCB. You may have to use an exacto knife to
-carve out some extra material from the sheet to make it fit perfectly
-with the plastic posts in the keyboard (i.e., 0.2 to 0.5 mm).
+keyboards and repair your original Euro PC keyboard, I created this
+flexible (0.4 mm thick) PCB as a substitute. Just open up your EuroPC
+keyboard, remove and dispose of the Mylar sheet, and put this flexible
+PCB instead. You may have to use an exacto knife to carve out some
+extra material from the PCB to make it fit perfectly with the keyboard
+carrier plastic posts.
 
-The flex cable connector is removed from the Euro PC motherboard by
-desoldering it. And then replaced with a little adapter board. The
-adapter board is connected to the Euro PC motherboard via single row
-standard pitch pin headers. Fine pitch pin headers are used to connect
-a female, fine-pitch (IDC) ribbon cable to it, which then connects to
-the flexible keyboard PCB. The keyboard PCB has proper fine pitch pin
-headers holes as well.
-
-The pictures shown below will make this clear. 
+Also, the flex cable connector on the Euro PC motherboard needs to be
+removed (by desoldering it). It is then replaced by a little adapter
+board. Single row standard pitch header pins connect the adapter board
+to the motherboard. Fine pitch pin headers on the adapter board are
+used to connect it to the keyboard, using a female, fine-pitch (IDC)
+ribbon cable. The keyboard PCB has proper fine pitch pin header
+mounting holes as well. See the pictures below for illustration.
 
 ## Video
 
