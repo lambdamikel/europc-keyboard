@@ -34,7 +34,7 @@ To once and for all get rid of the Mylar sheet in the Euro PC
 keyboards and repair your original Euro PC keyboard, I created this
 flexible (0.4 mm thick) PCB as a substitute. Just open up your EuroPC
 keyboard, remove and dispose of the Mylar sheet, and put in this
-flexible PCB instead. You may have to use an exacto knife to carve out
+flexible PCB instead. You may have to use an X-Acto knife to carve out
 some extra material from the PCB to make it fit perfectly with the
 keyboard carrier plastic posts.
 
