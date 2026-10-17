@@ -1,5 +1,7 @@
 # Schneider Euro PC Keyboard Replacement PCB 
 
+#### Project Page: [www.michael-wessel.info/hardware.html](https://www.michael-wessel.info/hardware.html#schneider-euro-pc-keyboard-replacement)
+
 ## Background & Problem 
 
 At the time of this writing (2023), the keyboard "membranes" of the
